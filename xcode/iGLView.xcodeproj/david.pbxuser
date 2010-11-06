@@ -1,0 +1,764 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = D2AAC07D0554694100DB518D /* glCommon */;
+		addToTargets = (
+			D2AAC07D0554694100DB518D /* glCommon */,
+		);
+		codeSenseManager = 63266E3712850C3E00143E65 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1084,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310709992;
+			PBXWorkspaceStateSaveDate = 310709992;
+		};
+		perUserProjectItems = {
+			63266E5912850E9E00143E65 = 63266E5912850E9E00143E65 /* PBXTextBookmark */;
+			63266E5A12850E9E00143E65 = 63266E5A12850E9E00143E65 /* PBXTextBookmark */;
+			63266E5B12850E9E00143E65 = 63266E5B12850E9E00143E65 /* PBXTextBookmark */;
+			63266E5C12850E9E00143E65 = 63266E5C12850E9E00143E65 /* PBXTextBookmark */;
+			63266E5D12850E9E00143E65 = 63266E5D12850E9E00143E65 /* PBXTextBookmark */;
+			63266E5E12850E9E00143E65 = 63266E5E12850E9E00143E65 /* PBXTextBookmark */;
+			63266E5F12850E9E00143E65 = 63266E5F12850E9E00143E65 /* PBXTextBookmark */;
+			63266E6012850E9E00143E65 = 63266E6012850E9E00143E65 /* PBXTextBookmark */;
+			63266E6112850E9E00143E65 = 63266E6112850E9E00143E65 /* PBXTextBookmark */;
+			63266E6212850E9E00143E65 = 63266E6212850E9E00143E65 /* PBXTextBookmark */;
+			63266E6312850E9E00143E65 = 63266E6312850E9E00143E65 /* PBXTextBookmark */;
+			63266E6412850E9E00143E65 = 63266E6412850E9E00143E65 /* PBXTextBookmark */;
+			63266E6512850E9E00143E65 = 63266E6512850E9E00143E65 /* PBXTextBookmark */;
+			63266E6612850E9E00143E65 = 63266E6612850E9E00143E65 /* PBXTextBookmark */;
+			63266EA3128511C500143E65 /* XCBuildMessageTextBookmark */ = 63266EA3128511C500143E65 /* XCBuildMessageTextBookmark */;
+			63266EA4128511C500143E65 /* PBXTextBookmark */ = 63266EA4128511C500143E65 /* PBXTextBookmark */;
+			632670851285123C00143E65 /* PBXTextBookmark */ = 632670851285123C00143E65 /* PBXTextBookmark */;
+			632670861285124800143E65 /* PBXTextBookmark */ = 632670861285124800143E65 /* PBXTextBookmark */;
+			632670871285124800143E65 /* PBXTextBookmark */ = 632670871285124800143E65 /* PBXTextBookmark */;
+			632670881285124800143E65 /* PBXTextBookmark */ = 632670881285124800143E65 /* PBXTextBookmark */;
+			632670891285124800143E65 /* PBXTextBookmark */ = 632670891285124800143E65 /* PBXTextBookmark */;
+			6326708A1285124800143E65 /* PBXTextBookmark */ = 6326708A1285124800143E65 /* PBXTextBookmark */;
+			6326708B1285124800143E65 /* PBXTextBookmark */ = 6326708B1285124800143E65 /* PBXTextBookmark */;
+			6326708C1285124800143E65 /* PBXTextBookmark */ = 6326708C1285124800143E65 /* PBXTextBookmark */;
+			6326708D1285124800143E65 /* PBXTextBookmark */ = 6326708D1285124800143E65 /* PBXTextBookmark */;
+			6326708E1285124800143E65 /* PBXTextBookmark */ = 6326708E1285124800143E65 /* PBXTextBookmark */;
+			6326708F1285124800143E65 /* PBXTextBookmark */ = 6326708F1285124800143E65 /* PBXTextBookmark */;
+			632670901285124800143E65 /* PBXTextBookmark */ = 632670901285124800143E65 /* PBXTextBookmark */;
+			632670911285124800143E65 /* PBXTextBookmark */ = 632670911285124800143E65 /* PBXTextBookmark */;
+			632670921285124800143E65 /* PBXTextBookmark */ = 632670921285124800143E65 /* PBXTextBookmark */;
+			632670931285124800143E65 /* PBXTextBookmark */ = 632670931285124800143E65 /* PBXTextBookmark */;
+			632670941285124800143E65 /* PBXTextBookmark */ = 632670941285124800143E65 /* PBXTextBookmark */;
+			632670951285124800143E65 /* PBXTextBookmark */ = 632670951285124800143E65 /* PBXTextBookmark */;
+			6326709A1285142000143E65 /* PBXTextBookmark */ = 6326709A1285142000143E65 /* PBXTextBookmark */;
+			6326709B1285142600143E65 /* PBXTextBookmark */ = 6326709B1285142600143E65 /* PBXTextBookmark */;
+			6326709C1285142600143E65 /* PBXTextBookmark */ = 6326709C1285142600143E65 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 63266E3612850C3E00143E65 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	63266E3612850C3E00143E65 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	63266E3712850C3E00143E65 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	63266E3F12850C6F00143E65 /* gles1Glue.c */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.c;
+		name = gles1Glue.c;
+		path = "/Users/david/Projects/Open Source/iGLView/classes/gles1Glue.c";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 930}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1111}";
+		};
+	};
+	63266E4012850C6F00143E65 /* gles1Glue.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = gles1Glue.h;
+		path = "/Users/david/Projects/Open Source/iGLView/classes/gles1Glue.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 930}}";
+			sepNavSelRange = "{269, 0}";
+			sepNavVisRange = "{0, 713}";
+		};
+	};
+	63266E4112850C6F00143E65 /* gles2Glue.c */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.c;
+		name = gles2Glue.c;
+		path = "/Users/david/Projects/Open Source/iGLView/classes/gles2Glue.c";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 3291}}";
+			sepNavSelRange = "{371, 0}";
+			sepNavVisRange = "{0, 1218}";
+		};
+	};
+	63266E4212850C6F00143E65 /* gles2Glue.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = gles2Glue.h;
+		path = "/Users/david/Projects/Open Source/iGLView/classes/gles2Glue.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 930}}";
+			sepNavSelRange = "{247, 0}";
+			sepNavVisRange = "{0, 614}";
+		};
+	};
+	63266E4312850C6F00143E65 /* iGLES1Surface.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = iGLES1Surface.h;
+		path = "/Users/david/Projects/Open Source/iGLView/classes/iGLES1Surface.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 930}}";
+			sepNavSelRange = "{147, 0}";
+			sepNavVisRange = "{0, 593}";
+		};
+	};
+	63266E4412850C6F00143E65 /* iGLES1Surface.mm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.objcpp;
+		name = iGLES1Surface.mm;
+		path = "/Users/david/Projects/Open Source/iGLView/classes/iGLES1Surface.mm";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 3109}}";
+			sepNavSelRange = "{182, 0}";
+			sepNavVisRange = "{0, 1077}";
+		};
+	};
+	63266E4512850C6F00143E65 /* iGLES2Surface.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = iGLES2Surface.h;
+		path = "/Users/david/Projects/Open Source/iGLView/classes/iGLES2Surface.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 930}}";
+			sepNavSelRange = "{156, 0}";
+			sepNavVisRange = "{0, 595}";
+		};
+	};
+	63266E4612850C6F00143E65 /* iGLES2Surface.mm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.objcpp;
+		name = iGLES2Surface.mm;
+		path = "/Users/david/Projects/Open Source/iGLView/classes/iGLES2Surface.mm";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 2871}}";
+			sepNavSelRange = "{152, 0}";
+			sepNavVisRange = "{0, 1070}";
+		};
+	};
+	63266E4712850C6F00143E65 /* iGLESSurface.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = iGLESSurface.h;
+		path = "/Users/david/Projects/Open Source/iGLView/classes/iGLESSurface.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 930}}";
+			sepNavSelRange = "{204, 0}";
+			sepNavVisRange = "{0, 750}";
+		};
+	};
+	63266E4812850C6F00143E65 /* iGLESSurface.mm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.objcpp;
+		name = iGLESSurface.mm;
+		path = "/Users/david/Projects/Open Source/iGLView/classes/iGLESSurface.mm";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 930}}";
+			sepNavSelRange = "{162, 0}";
+			sepNavVisRange = "{0, 682}";
+		};
+	};
+	63266E4912850C6F00143E65 /* iGLView.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = iGLView.h;
+		path = "/Users/david/Projects/Open Source/iGLView/classes/iGLView.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 930}}";
+			sepNavSelRange = "{194, 0}";
+			sepNavVisRange = "{0, 459}";
+		};
+	};
+	63266E4A12850C6F00143E65 /* iGLView.mm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.objcpp;
+		name = iGLView.mm;
+		path = "/Users/david/Projects/Open Source/iGLView/classes/iGLView.mm";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 1655}}";
+			sepNavSelRange = "{187, 0}";
+			sepNavVisRange = "{0, 1237}";
+		};
+	};
+	63266E5712850CF500143E65 /* commonMath.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = commonMath.h;
+		path = "/Users/david/Projects/Open Source/iGLView/classes/commonMath.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 966}}";
+			sepNavSelRange = "{907, 0}";
+			sepNavVisRange = "{20, 1639}";
+		};
+	};
+	63266E5912850E9E00143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E3F12850C6F00143E65 /* gles1Glue.c */;
+		name = "gles1Glue.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1111;
+		vrLoc = 0;
+	};
+	63266E5A12850E9E00143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E5712850CF500143E65 /* commonMath.h */;
+		name = "commonMath.h: 39";
+		rLen = 0;
+		rLoc = 907;
+		rType = 0;
+		vrLen = 1639;
+		vrLoc = 20;
+	};
+	63266E5B12850E9E00143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E4012850C6F00143E65 /* gles1Glue.h */;
+		name = "gles1Glue.h: 18";
+		rLen = 0;
+		rLoc = 269;
+		rType = 0;
+		vrLen = 713;
+		vrLoc = 0;
+	};
+	63266E5C12850E9E00143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E4112850C6F00143E65 /* gles2Glue.c */;
+		name = "gles2Glue.c: 22";
+		rLen = 0;
+		rLoc = 371;
+		rType = 0;
+		vrLen = 1218;
+		vrLoc = 0;
+	};
+	63266E5D12850E9E00143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E4912850C6F00143E65 /* iGLView.h */;
+		name = "iGLView.h: 15";
+		rLen = 0;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 459;
+		vrLoc = 0;
+	};
+	63266E5E12850E9E00143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E4A12850C6F00143E65 /* iGLView.mm */;
+		name = "iGLView.mm: 13";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 1237;
+		vrLoc = 0;
+	};
+	63266E5F12850E9E00143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E4812850C6F00143E65 /* iGLESSurface.mm */;
+		name = "iGLESSurface.mm: 14";
+		rLen = 0;
+		rLoc = 162;
+		rType = 0;
+		vrLen = 682;
+		vrLoc = 0;
+	};
+	63266E6012850E9E00143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E4712850C6F00143E65 /* iGLESSurface.h */;
+		name = "iGLESSurface.h: 11";
+		rLen = 0;
+		rLoc = 204;
+		rType = 0;
+		vrLen = 750;
+		vrLoc = 0;
+	};
+	63266E6112850E9E00143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E4612850C6F00143E65 /* iGLES2Surface.mm */;
+		name = "iGLES2Surface.mm: 11";
+		rLen = 0;
+		rLoc = 152;
+		rType = 0;
+		vrLen = 1070;
+		vrLoc = 0;
+	};
+	63266E6212850E9E00143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E4512850C6F00143E65 /* iGLES2Surface.h */;
+		name = "iGLES2Surface.h: 10";
+		rLen = 0;
+		rLoc = 156;
+		rType = 0;
+		vrLen = 595;
+		vrLoc = 0;
+	};
+	63266E6312850E9E00143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E4412850C6F00143E65 /* iGLES1Surface.mm */;
+		name = "iGLES1Surface.mm: 12";
+		rLen = 0;
+		rLoc = 182;
+		rType = 0;
+		vrLen = 1077;
+		vrLoc = 0;
+	};
+	63266E6412850E9E00143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E4312850C6F00143E65 /* iGLES1Surface.h */;
+		name = "iGLES1Surface.h: 9";
+		rLen = 0;
+		rLoc = 147;
+		rType = 0;
+		vrLen = 593;
+		vrLoc = 0;
+	};
+	63266E6512850E9E00143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E4212850C6F00143E65 /* gles2Glue.h */;
+		name = "gles2Glue.h: 11";
+		rLen = 0;
+		rLoc = 216;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 0;
+	};
+	63266E6612850E9E00143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E4212850C6F00143E65 /* gles2Glue.h */;
+		name = "gles2Glue.h: 13";
+		rLen = 0;
+		rLoc = 247;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 0;
+	};
+	63266E7412850F1900143E65 /* iGLES1Surface.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 879}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 593}";
+		};
+	};
+	63266E7512850F1900143E65 /* iGLES1Surface.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {719, 3067}}";
+			sepNavSelRange = "{1346, 0}";
+			sepNavVisRange = "{1219, 405}";
+		};
+	};
+	63266E7612850F1900143E65 /* iGLES2Surface.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 879}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 595}";
+		};
+	};
+	63266E7712850F1900143E65 /* iGLES2Surface.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 2899}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1002}";
+		};
+	};
+	63266E7812850F1900143E65 /* iGLESSurface.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 879}}";
+			sepNavSelRange = "{712, 0}";
+			sepNavVisRange = "{0, 748}";
+		};
+	};
+	63266E7912850F1900143E65 /* iGLESSurface.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 879}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 682}";
+		};
+	};
+	63266E7A12850F1900143E65 /* iGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 879}}";
+			sepNavSelRange = "{231, 0}";
+			sepNavVisRange = "{0, 458}";
+		};
+	};
+	63266E7B12850F1900143E65 /* iGLView.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 1739}}";
+			sepNavSelRange = "{748, 0}";
+			sepNavVisRange = "{1190, 765}";
+		};
+	};
+	63266E8512850F2900143E65 /* commonMath.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = commonMath.h;
+		path = "/Users/david/Projects/Open Source/iGLView/graphicsStuff/commonMath.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 1164}}";
+			sepNavSelRange = "{191, 0}";
+			sepNavVisRange = "{0, 1277}";
+		};
+	};
+	63266E8612850F2900143E65 /* gles1Glue.c */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.c;
+		name = gles1Glue.c;
+		path = "/Users/david/Projects/Open Source/iGLView/graphicsStuff/gles1Glue.c";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 939}}";
+			sepNavSelRange = "{336, 0}";
+			sepNavVisRange = "{43, 1243}";
+		};
+	};
+	63266E8712850F2900143E65 /* gles1Glue.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = gles1Glue.h;
+		path = "/Users/david/Projects/Open Source/iGLView/graphicsStuff/gles1Glue.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 879}}";
+			sepNavSelRange = "{139, 41}";
+			sepNavVisRange = "{0, 564}";
+		};
+	};
+	63266E8812850F2900143E65 /* gles2Glue.c */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.c;
+		name = gles2Glue.c;
+		path = "/Users/david/Projects/Open Source/iGLView/graphicsStuff/gles2Glue.c";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 1079}}";
+			sepNavSelRange = "{1046, 0}";
+			sepNavVisRange = "{0, 1173}";
+		};
+	};
+	63266E8912850F2900143E65 /* gles2Glue.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = gles2Glue.h;
+		path = "/Users/david/Projects/Open Source/iGLView/graphicsStuff/gles2Glue.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 879}}";
+			sepNavSelRange = "{301, 0}";
+			sepNavVisRange = "{0, 576}";
+		};
+	};
+	63266E9312850FEF00143E65 /* commonMath.c */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.c;
+		name = commonMath.c;
+		path = "/Users/david/Projects/Open Source/iGLView/graphicsStuff/commonMath.c";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 2059}}";
+			sepNavSelRange = "{332, 0}";
+			sepNavVisRange = "{3096, 1036}";
+		};
+	};
+	63266EA3128511C500143E65 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Invalid type in declaration before '=' token";
+		fRef = 63266E7512850F1900143E65 /* iGLES1Surface.mm */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 84;
+		rType = 1;
+	};
+	63266EA4128511C500143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E7512850F1900143E65 /* iGLES1Surface.mm */;
+		name = "iGLES1Surface.mm: 85";
+		rLen = 0;
+		rLoc = 1346;
+		rType = 0;
+		vrLen = 398;
+		vrLoc = 1219;
+	};
+	632670851285123C00143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E7512850F1900143E65 /* iGLES1Surface.mm */;
+		name = "iGLES1Surface.mm: 85";
+		rLen = 0;
+		rLoc = 1346;
+		rType = 0;
+		vrLen = 405;
+		vrLoc = 1219;
+	};
+	632670861285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E8512850F2900143E65 /* commonMath.h */;
+		name = "commonMath.h: 13";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 1277;
+		vrLoc = 0;
+	};
+	632670871285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E9312850FEF00143E65 /* commonMath.c */;
+		name = "commonMath.c: 19";
+		rLen = 0;
+		rLoc = 332;
+		rType = 0;
+		vrLen = 1036;
+		vrLoc = 3096;
+	};
+	632670881285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E7412850F1900143E65 /* iGLES1Surface.h */;
+		name = "iGLES1Surface.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 593;
+		vrLoc = 0;
+	};
+	632670891285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E7612850F1900143E65 /* iGLES2Surface.h */;
+		name = "iGLES2Surface.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 595;
+		vrLoc = 0;
+	};
+	6326708A1285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E7712850F1900143E65 /* iGLES2Surface.mm */;
+		name = "iGLES2Surface.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1002;
+		vrLoc = 0;
+	};
+	6326708B1285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E7A12850F1900143E65 /* iGLView.h */;
+		name = "iGLView.h: 18";
+		rLen = 0;
+		rLoc = 231;
+		rType = 0;
+		vrLen = 458;
+		vrLoc = 0;
+	};
+	6326708C1285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E7B12850F1900143E65 /* iGLView.mm */;
+		name = "iGLView.mm: 39";
+		rLen = 0;
+		rLoc = 748;
+		rType = 0;
+		vrLen = 765;
+		vrLoc = 1190;
+	};
+	6326708D1285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E7512850F1900143E65 /* iGLES1Surface.mm */;
+		name = "iGLES1Surface.mm: 73";
+		rLen = 0;
+		rLoc = 1162;
+		rType = 0;
+		vrLen = 1009;
+		vrLoc = 0;
+	};
+	6326708E1285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E7812850F1900143E65 /* iGLESSurface.h */;
+		name = "iGLESSurface.h: 39";
+		rLen = 0;
+		rLoc = 712;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 0;
+	};
+	6326708F1285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E7912850F1900143E65 /* iGLESSurface.mm */;
+		name = "iGLESSurface.mm: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 682;
+		vrLoc = 0;
+	};
+	632670901285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AA747D9E0F9514B9006C5449 /* glCommon_Prefix.pch */;
+		name = "glCommon_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 208;
+		vrLoc = 0;
+	};
+	632670911285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E8912850F2900143E65 /* gles2Glue.h */;
+		name = "gles2Glue.h: 20";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 576;
+		vrLoc = 0;
+	};
+	632670921285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E8812850F2900143E65 /* gles2Glue.c */;
+		name = "gles2Glue.c: 52";
+		rLen = 0;
+		rLoc = 1046;
+		rType = 0;
+		vrLen = 1173;
+		vrLoc = 0;
+	};
+	632670931285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E8612850F2900143E65 /* gles1Glue.c */;
+		name = "gles1Glue.c: 18";
+		rLen = 0;
+		rLoc = 336;
+		rType = 0;
+		vrLen = 1243;
+		vrLoc = 43;
+	};
+	632670941285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E8712850F2900143E65 /* gles1Glue.h */;
+		name = "gles1Glue.h: 10";
+		rLen = 41;
+		rLoc = 139;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 0;
+	};
+	632670951285124800143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E8712850F2900143E65 /* gles1Glue.h */;
+		name = "gles1Glue.h: 10";
+		rLen = 41;
+		rLoc = 139;
+		rType = 0;
+		vrLen = 564;
+		vrLoc = 0;
+	};
+	6326709A1285142000143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 63266E7512850F1900143E65 /* iGLES1Surface.mm */;
+		name = "iGLES1Surface.mm: 85";
+		rLen = 0;
+		rLoc = 1346;
+		rType = 0;
+		vrLen = 405;
+		vrLoc = 1219;
+	};
+	6326709B1285142600143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AA747D9E0F9514B9006C5449 /* glCommon_Prefix.pch */;
+		name = "glCommon_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 208;
+		vrLoc = 0;
+	};
+	6326709C1285142600143E65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AA747D9E0F9514B9006C5449 /* glCommon_Prefix.pch */;
+		name = "glCommon_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 208;
+		vrLoc = 0;
+	};
+	AA747D9E0F9514B9006C5449 /* glCommon_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1262, 879}}";
+			sepNavSelRange = "{208, 0}";
+			sepNavVisRange = "{0, 208}";
+		};
+	};
+	D2AAC07D0554694100DB518D /* glCommon */ = {
+		activeExec = 0;
+	};
+}

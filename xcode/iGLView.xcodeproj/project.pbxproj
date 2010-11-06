@@ -1,0 +1,273 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		63266E7C12850F1900143E65 /* iGLES1Surface.h in Headers */ = {isa = PBXBuildFile; fileRef = 63266E7412850F1900143E65 /* iGLES1Surface.h */; };
+		63266E7D12850F1900143E65 /* iGLES1Surface.mm in Sources */ = {isa = PBXBuildFile; fileRef = 63266E7512850F1900143E65 /* iGLES1Surface.mm */; };
+		63266E7E12850F1900143E65 /* iGLES2Surface.h in Headers */ = {isa = PBXBuildFile; fileRef = 63266E7612850F1900143E65 /* iGLES2Surface.h */; };
+		63266E7F12850F1900143E65 /* iGLES2Surface.mm in Sources */ = {isa = PBXBuildFile; fileRef = 63266E7712850F1900143E65 /* iGLES2Surface.mm */; };
+		63266E8012850F1900143E65 /* iGLESSurface.h in Headers */ = {isa = PBXBuildFile; fileRef = 63266E7812850F1900143E65 /* iGLESSurface.h */; };
+		63266E8112850F1900143E65 /* iGLESSurface.mm in Sources */ = {isa = PBXBuildFile; fileRef = 63266E7912850F1900143E65 /* iGLESSurface.mm */; };
+		63266E8212850F1900143E65 /* iGLView.h in Headers */ = {isa = PBXBuildFile; fileRef = 63266E7A12850F1900143E65 /* iGLView.h */; };
+		63266E8312850F1900143E65 /* iGLView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 63266E7B12850F1900143E65 /* iGLView.mm */; };
+		63266EB7128511DA00143E65 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 63266EB6128511DA00143E65 /* OpenGLES.framework */; };
+		63266F15128511E300143E65 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 63266F14128511E300143E65 /* UIKit.framework */; };
+		63266FBD128511ED00143E65 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 63266FBC128511ED00143E65 /* Foundation.framework */; };
+		63267048128511FD00143E65 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 63267046128511FD00143E65 /* CoreGraphics.framework */; };
+		63267049128511FD00143E65 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 63267047128511FD00143E65 /* QuartzCore.framework */; };
+		AA747D9F0F9514B9006C5449 /* glCommon_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = AA747D9E0F9514B9006C5449 /* glCommon_Prefix.pch */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		63266E7412850F1900143E65 /* iGLES1Surface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iGLES1Surface.h; sourceTree = "<group>"; };
+		63266E7512850F1900143E65 /* iGLES1Surface.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = iGLES1Surface.mm; sourceTree = "<group>"; };
+		63266E7612850F1900143E65 /* iGLES2Surface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iGLES2Surface.h; sourceTree = "<group>"; };
+		63266E7712850F1900143E65 /* iGLES2Surface.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = iGLES2Surface.mm; sourceTree = "<group>"; };
+		63266E7812850F1900143E65 /* iGLESSurface.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iGLESSurface.h; sourceTree = "<group>"; };
+		63266E7912850F1900143E65 /* iGLESSurface.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = iGLESSurface.mm; sourceTree = "<group>"; };
+		63266E7A12850F1900143E65 /* iGLView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iGLView.h; sourceTree = "<group>"; };
+		63266E7B12850F1900143E65 /* iGLView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = iGLView.mm; sourceTree = "<group>"; };
+		63266EB6128511DA00143E65 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		63266F14128511E300143E65 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		63266FBC128511ED00143E65 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		63267046128511FD00143E65 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		63267047128511FD00143E65 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		AA747D9E0F9514B9006C5449 /* glCommon_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = glCommon_Prefix.pch; sourceTree = SOURCE_ROOT; };
+		D2AAC07E0554694100DB518D /* libglCommon.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libglCommon.a; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D2AAC07C0554694100DB518D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63266EB7128511DA00143E65 /* OpenGLES.framework in Frameworks */,
+				63266F15128511E300143E65 /* UIKit.framework in Frameworks */,
+				63266FBD128511ED00143E65 /* Foundation.framework in Frameworks */,
+				63267048128511FD00143E65 /* CoreGraphics.framework in Frameworks */,
+				63267049128511FD00143E65 /* QuartzCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		034768DFFF38A50411DB9C8B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D2AAC07E0554694100DB518D /* libglCommon.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0867D691FE84028FC02AAC07 /* glCommon */ = {
+			isa = PBXGroup;
+			children = (
+				63266E7312850F1900143E65 /* iGLView */,
+				32C88DFF0371C24200C91783 /* Other Sources */,
+				0867D69AFE84028FC02AAC07 /* Frameworks */,
+				034768DFFF38A50411DB9C8B /* Products */,
+			);
+			name = glCommon;
+			sourceTree = "<group>";
+		};
+		0867D69AFE84028FC02AAC07 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				63267046128511FD00143E65 /* CoreGraphics.framework */,
+				63267047128511FD00143E65 /* QuartzCore.framework */,
+				63266FBC128511ED00143E65 /* Foundation.framework */,
+				63266F14128511E300143E65 /* UIKit.framework */,
+				63266EB6128511DA00143E65 /* OpenGLES.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		32C88DFF0371C24200C91783 /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				AA747D9E0F9514B9006C5449 /* glCommon_Prefix.pch */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		63266E7312850F1900143E65 /* iGLView */ = {
+			isa = PBXGroup;
+			children = (
+				63266E7412850F1900143E65 /* iGLES1Surface.h */,
+				63266E7512850F1900143E65 /* iGLES1Surface.mm */,
+				63266E7612850F1900143E65 /* iGLES2Surface.h */,
+				63266E7712850F1900143E65 /* iGLES2Surface.mm */,
+				63266E7812850F1900143E65 /* iGLESSurface.h */,
+				63266E7912850F1900143E65 /* iGLESSurface.mm */,
+				63266E7A12850F1900143E65 /* iGLView.h */,
+				63266E7B12850F1900143E65 /* iGLView.mm */,
+			);
+			name = iGLView;
+			path = ../iGLView;
+			sourceTree = SOURCE_ROOT;
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		D2AAC07A0554694100DB518D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA747D9F0F9514B9006C5449 /* glCommon_Prefix.pch in Headers */,
+				63266E7C12850F1900143E65 /* iGLES1Surface.h in Headers */,
+				63266E7E12850F1900143E65 /* iGLES2Surface.h in Headers */,
+				63266E8012850F1900143E65 /* iGLESSurface.h in Headers */,
+				63266E8212850F1900143E65 /* iGLView.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		D2AAC07D0554694100DB518D /* glCommon */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB921E08733DC00010E9CD /* Build configuration list for PBXNativeTarget "glCommon" */;
+			buildPhases = (
+				D2AAC07A0554694100DB518D /* Headers */,
+				D2AAC07B0554694100DB518D /* Sources */,
+				D2AAC07C0554694100DB518D /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = glCommon;
+			productName = glCommon;
+			productReference = D2AAC07E0554694100DB518D /* libglCommon.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0867D690FE84028FC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "iGLView" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 0867D691FE84028FC02AAC07 /* glCommon */;
+			productRefGroup = 034768DFFF38A50411DB9C8B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D2AAC07D0554694100DB518D /* glCommon */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D2AAC07B0554694100DB518D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63266E7D12850F1900143E65 /* iGLES1Surface.mm in Sources */,
+				63266E7F12850F1900143E65 /* iGLES2Surface.mm in Sources */,
+				63266E8112850F1900143E65 /* iGLESSurface.mm in Sources */,
+				63266E8312850F1900143E65 /* iGLView.mm in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB921F08733DC00010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/glCommon.dst;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = glCommon_Prefix.pch;
+				INSTALL_PATH = /usr/local/lib;
+				PRODUCT_NAME = glCommon;
+			};
+			name = Debug;
+		};
+		1DEB922008733DC00010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				DSTROOT = /tmp/glCommon.dst;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = glCommon_Prefix.pch;
+				INSTALL_PATH = /usr/local/lib;
+				PRODUCT_NAME = glCommon;
+			};
+			name = Release;
+		};
+		1DEB922308733DC00010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_LDFLAGS = "-ObjC";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.1;
+			};
+			name = Debug;
+		};
+		1DEB922408733DC00010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_LDFLAGS = "-ObjC";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB921E08733DC00010E9CD /* Build configuration list for PBXNativeTarget "glCommon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB921F08733DC00010E9CD /* Debug */,
+				1DEB922008733DC00010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "iGLView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB922308733DC00010E9CD /* Debug */,
+				1DEB922408733DC00010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0867D690FE84028FC02AAC07 /* Project object */;
+}
